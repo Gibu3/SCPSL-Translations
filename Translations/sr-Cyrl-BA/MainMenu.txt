@@ -27,16 +27,16 @@ V-SYNC
 ПОВЕЖИ СЕ
 ПОСТАВКЕ КВАЛИТЕТА
 Change shadow preferences. Setting these sliders at lower values may increase gameplay smoothness.
-MAIN MENU
-RENDER LIGHTS
-MOTION BLUR
-SHADOW DISTANCE
-DETAILS
+ГЛАФНИ МЕНИ
+РЕНДЕРУЈ СВЈЕТЛА
+МУТНОСТ КРЕТАНА
+ДИСТАНЦА СЈЕНКИ
+ДЕТАЉИ
 3. SCP-914
-TUTORIALS
-WARNING
-Browse available servers
-Don't show it again
+ТУТОРИЈАЛИ
+УПОЗОРЕЊЕ
+Гледај доступне сервере
+Непој показати опет
 Како би сте се жеилити повезати?
 ПРЕТРАЖИВАЧ СЕРВЕРА
 У РЕДУ
